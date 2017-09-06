@@ -1,0 +1,12 @@
+{
+  "name": "VotingDapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vatsal Kanakiya",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-testrpc": "^4.1.1",
+    "solc": "^0.4.16",
+    "web3": "0.20.1"
+  }
+}
